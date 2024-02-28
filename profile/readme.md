@@ -67,6 +67,7 @@ Our plans for `2 Years`:
 - <a href="https://github.com/Cordevall/Rust/tree/main#readme">.rs (Rust)</a>
 
 ### Planned
+- <a href="https://github.com/Cordevall/CoffeeScript/tree/main#readme">.coffee (CoffeeScript)</a> (Compatable with APIs and Interactions)
 - <a href="https://github.com/Cordevall/Java/tree/main#readme">.jar (Java)</a>
 - <a href="https://github.com/Cordevall/Ruby/tree/main#readme">.rb (Ruby)</a>
 - <a href="https://github.com/Cordevall/PHP/tree/main#readme">.php (PHP)</a> (Compatable with Interactions)
