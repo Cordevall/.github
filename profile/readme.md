@@ -1,26 +1,9 @@
+> [!WARNING]
+> ONHOLD | Reason: Temporariily on hold as I am busy with TeaClient & OpusClient Be Back SOON! Kind Regrads, Eveeifyeve. | Period estimate to be back at early DEC - Late JAN
+
 <img src="/assets/md/cordevallbannerblurple.png">
 
-### Open-sourced Discord Bot Templates and Installers for Everyone!
-
-<img src="/assets/md/dividers.png">
-
-## On HOLD Probably forever?
-
-~~I understand that you might be disappointed to hear that the project has been put on hold. We're currently too busy to continue developing it, and as a result, we're unable to continue.~~
-
-~~However, We encourage you to take this opportunity to contribute to the project. You can do this by forking the repository and making the necessary changes to the bot.~~
-
-~~We would like to thank you for your continued support and patience during this time. We hope to see the bot continue to grow and improve with your contributions.~~
-
-~~- Eveeify~~
-~~- CEO and Co-Founder of Cordevall~~
-
-
-**Notice: We Have officaly are back and ready to make new and Better Templates And cool Commands for each Template.
--- `Feb 22 2024`**
-
-<img src="/assets/md/dividers.png">
-
+### Open-sourced Discord Bot Templates and Installers for Everyone!=
 
 <a href="https://github.com/Cordevall/Cordevall/tree/Main#get-started-select-your-programming-language">Too lazy to scroll? Select a Programming Language here!</a>
 
