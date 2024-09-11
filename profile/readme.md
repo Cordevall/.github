@@ -1,6 +1,5 @@
 > [!WARNING]
-> ONHOLD | Reason: Temporariily on hold as I am busy with TeaClient & OpusClient Be Back SOON! Kind Regrads, Eveeifyeve. | Period estimate to be back at early DEC - Late JAN
-
+> ONHOLD | Reason: Temporariily ON HOLD as developers are busy with exams/projects be hopefully back at 2025! Kind Regrads, Eveeifyeve.
 <img src="/assets/md/cordevallbannerblurple.png">
 
 ### Open-sourced Discord Bot Templates and Installers for Everyone!=
